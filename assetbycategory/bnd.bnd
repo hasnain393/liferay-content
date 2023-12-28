@@ -1,0 +1,4 @@
+Bundle-Name: assetbycategory
+Bundle-SymbolicName: com.assetbycategory
+Bundle-Version: 1.0.0
+Export-Package: com.assetbycategory.constants

@@ -1,0 +1,4 @@
+Bundle-Name: documentmanager
+Bundle-SymbolicName: com.documentmanager
+Bundle-Version: 1.0.0
+Export-Package: com.documentmanager.constants
